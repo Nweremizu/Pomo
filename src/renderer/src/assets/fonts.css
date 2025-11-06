@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Nura';
+  src: url('./fonts/Nura_Normal.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nura';
+  src: url('./fonts/Nura_Extra_Light.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nura';
+  src: url('./fonts/Nura_Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nura';
+  src: url('./fonts/Nura_Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Add additional font weights if you have them */
+@font-face {
+  font-family: 'NUra';
+  src: url('./fonts/Nura-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nura';
+  src: url('./fonts/Nura_Bold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nura';
+  src: url('./fonts/Extra_Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
